@@ -1,0 +1,25 @@
+/* Thursday 18th of April 2019 Class Assignment CSS work can go here */
+
+.logo{
+  position: fixed;
+  border: thin solid #333;
+  padding-top: 4px;
+  box-sizing: border-box;
+  background-color: #777;
+  color: #FFF;
+  border-radius: 100%;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  box-shadow: 3px 3px 5px #aaaaaa;
+  cursor: pointer;
+  transition: background-color .5s ease-in-out;
+  transition: color .5s ease-in-out;
+}
+
+.logo:hover{
+  color: #333;
+  background-color: #FFF;
+  box-shadow: 1px 1px 5px #777;
+
+}
