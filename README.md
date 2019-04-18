@@ -6,3 +6,4 @@
       - Created folders assets/css, js, images, vendors
       - Copied files in from Trinket.io
       - Cleaned files
+      - Changed file paths in index file to include assets folder
