@@ -30,9 +30,15 @@ h1 {
             border-radius: 50%;
       width: 20%;
       padding-top: 20%;
-      -webkit-transition:;
-      transition:
 }
+
+#logo.hover {
+      -webkit-transition:;
+      -webkit-transition: 2s;
+      transition: 2s;
+      -webkit-transform: rotate(360deg);
+              transform: rotate(360deg);
+}      
 
 .logoBar {
       position: absolute;
